@@ -1,0 +1,34 @@
+.headings{
+display: flex;
+font-radius: 3px;
+border-bottom: solid;
+margin-bottom: 2px;
+background-color: skyblue;
+}
+
+.headings > div {
+margin-left: 10px;
+text-align: left;
+min-width: 100px;
+max-width: 100px;
+font-weight: 500;
+
+}
+
+.bookRow{
+display: flex;
+}
+
+.bookRow > div {
+margin-left: 10px;
+text-align: left;
+min-width: 100px;
+max-width: 100px;
+overflow: hidden;
+text-overflow: ellipsis;
+
+}
+
+#bookContainer{
+border: solid;
+}
