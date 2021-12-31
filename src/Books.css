@@ -3,7 +3,7 @@ display: flex;
 font-radius: 3px;
 border-bottom: solid;
 margin-bottom: 2px;
-background-color: skyblue;
+background-color: lightgrey;
 }
 
 .headings > div {
